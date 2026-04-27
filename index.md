@@ -23,7 +23,4 @@ For future work, if this idea is implemented the class performance can be compar
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="static/imgs/chart1.png" alt="Chart1. "  width="500"/>
-<img src="static/imgs/chart2.png" alt="Chart2. "  width="500"/>
-<img src="static/imgs/chart3.png" alt="Chart3. "  width="500"/>
-
+<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
