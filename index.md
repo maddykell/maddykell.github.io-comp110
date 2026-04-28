@@ -11,9 +11,13 @@ Our analysis investigated if students with little prior experience who find diff
 ## Student Data:
 Support for pre-lecture videos from ALL students:
 <img src="static/imgs/chart1.png" alt="Chart1. "  width="500"/>
+
 Support for Pre-Lecture Videos based on Prior Experience:
+
 <img src="static/imgs/chart2.png" alt="Chart2. "  width="500"/>
+
 Support for Pre-Lecture Videos based on Perceived Difficulty:
+
 <img src="static/imgs/chart3.png" alt="Chart3. "  width="500"/>
 
 ## Conclusion
@@ -23,6 +27,3 @@ For future work, if this idea is implemented the class performance can be compar
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<static/imgs/chart1.png" alt="Chart1. "  width="500"/>
-<img src="<static/imgs/chart2.png" alt="Chart2. "  width="500"/>
-<img src="<static/imgs/chart3.png" alt="Chart3. "  width="500"/>
